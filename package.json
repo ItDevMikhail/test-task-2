@@ -1,6 +1,7 @@
 {
   "name": "react-planner",
   "private": true,
+  "homepage": "https://github.com/ItDevMikhail/test-task-2",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
